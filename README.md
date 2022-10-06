@@ -1,1 +1,1 @@
-# Ejercicios-4oct
+Ejercicios varios de programacion
