@@ -6,6 +6,8 @@ Algoritmo sin_titulo
 	Si (n1<n2) Entonces
 		Si (n2<n3) Entonces
 			Escribir N1, N2, N3
+			SiNo
+			Si 
 		FinSi
 	FinSi
 FinAlgoritmo
