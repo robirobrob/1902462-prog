@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Boletin1UT3Ejercicio1 {
+public class Boletin1UT03Ejercicio1TEST {
 	
 	public static void main (String[] args) {
 		Scanner sc = new Scanner(System.in);
